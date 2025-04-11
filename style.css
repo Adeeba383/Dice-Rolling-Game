@@ -1,0 +1,107 @@
+body{
+    background-color:#fba002;
+}
+#section{
+    border: 8px dashed red;
+    width: 700px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    margin-bottom: 50px;
+}
+h1{
+    text-align: center;
+    color: #313b2f;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    color: #313b2f;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+p::after, p::before, h3::before{
+    content: "\26A0";
+}
+span{
+    font-size: 25px;
+    color: red;
+}
+.img{
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+}
+#Images{
+    text-align: center;
+}
+
+#button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px;
+    border: 2px dashed #fba002;
+    background-color: #313b2f;
+    color: #fba002;
+    cursor: pointer;
+}
+#button:hover{
+    background-color: hsl(38, 51%, 61%);
+    color: hsl(120, 3%, 16%);
+    border: none;
+}
+#options{
+    text-align: center;
+}
+.buttons{
+    width: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding: 5px;
+    font-weight: bold;
+    background-color: #fba002;
+    color: #313b2f;
+    cursor: pointer;
+    margin: 20px;
+}
+.buttons:hover{
+    background-color: hsl(120, 3%, 16%);
+    color: hsl(38, 51%, 61%);
+}
+
+#screen{
+    width: 700px;
+    height: 200px;
+    border: 4px double red;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    border-left: none;
+    border-right: none;
+}
+#attempts{
+    text-align: center;
+    font-size: 25px;
+    color:#fba002;
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: 60px;
+}
+
+#Product{
+   text-align: center;
+   font-size: 25px;
+   font-weight: bold;
+   color: red;
+   border: 6px double red;
+   padding: 5px;
+   border-left: none;
+   border-right: none;
+}
