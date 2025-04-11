@@ -13,3 +13,12 @@ You can roll the dice as many times as you want. Itâ€™s a game to play when youâ
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Play the Game
+
+You can play the Dice Rolling Game directly in your browser by clicking the link below:
+
+[Play Dice Rolling Game](## Play the Game
+
+You can play the Dice Rolling Game directly in your browser by clicking the link below:
+
+[Play Dice Rolling Game](https://Adeeba383.github.io/Dice-Rolling-Game/)
